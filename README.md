@@ -1,5 +1,7 @@
 # US-COVID-19-Impact-Assesements
 
+<img width="600" src="./figures/US_rose.png" >
+
 ## About
 
 > Use SEIR compartment meta-population model to evaluate the effectiveness of travel restrictions on mitigating COVID-19 pandemic.
