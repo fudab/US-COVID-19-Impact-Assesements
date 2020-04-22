@@ -1,6 +1,13 @@
 # US-COVID-19-Impact-Assesements
 
-<img width="600" src="./figures/US_rose.png" >
+<table align = "center">
+  <tr>
+    <th><img width="400" src="./figures/US_rose.png" ></th>
+    <th><img width="400" src="./figures/US_map.png" ></th>
+  </tr>
+</table>
+
+
 
 ## About
 
