@@ -1,4 +1,4 @@
-# COVID-19 <p align="right"> <img src="./images/covid-19.png" alt="" width="100"> </p>
+# COVID-19 <p align="right"> <img src="./images/covid-19.png" alt="" width="50"> </p>
 
 
 
