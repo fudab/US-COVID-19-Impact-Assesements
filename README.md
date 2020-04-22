@@ -1,7 +1,3 @@
-{% include mathjax.html %}
-
-# [Fu Lab](https://fudab.github.io) <img src="./images/Logo.png" align = "right" alt="" width="50">
-
 # COVID-19
 
 <p align="left">
@@ -13,7 +9,6 @@
 ## About
 
 > Use SEIR compartment meta-population model to evaluate the effectiveness of travel restrictions on mitigating COVID-19 pandemic.
-
 
 ## Projects
 
