@@ -1,6 +1,4 @@
-# COVID-19 <img src="./images/covid-19.png" align="right" alt="" width="50">
-
-
+# COVID-19 <img src="./images/covid-19.png" align="right" alt="" width="100">
 
 ## US-COVID-19-Impact-Assesements
 
