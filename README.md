@@ -22,7 +22,7 @@
 
 ### Complete
 
-#### [Bag Ends](https://fudab.github.io/covid-19/bag_end_us)
+#### [Bag End](https://fudab.github.io/covid-19/bag_end_us)
 
 > * A summary on the county level.
 > * Where it spreads faster, urban areas or rural areas? 
