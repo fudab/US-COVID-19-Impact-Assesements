@@ -1,8 +1,3 @@
----
-mathjax: true
-categories: github jekyll
----
-
 {% include mathjax.html %}
 
 # [Fu Lab](https://fudab.github.io) <img src="./images/Logo.png" align = "right" alt="" width="50">
@@ -24,7 +19,7 @@ categories: github jekyll
 
 ### Future
 
-#### When will the second wave come?
+#### - When will the second wave come?
 
 ### Current
 
@@ -32,7 +27,7 @@ categories: github jekyll
 
 ### Complete
 
-### [Bag Ends](https://fudab.github.io/covid-19/bag_end_us)
+#### [Bag Ends](https://fudab.github.io/covid-19/bag_end_us)
 
 > * A summary on the county level.
 > * Where it spreads faster, urban areas or rural areas? 
