@@ -1,7 +1,7 @@
 # COVID-19
 
 <p align="left">
-<img src="./images/covid-19.png" alt="" width="300">
+<img src="./images/covid-19.jpg" alt="" width="300">
 </p>
 
 ## US-COVID-19-Impact-Assesements
