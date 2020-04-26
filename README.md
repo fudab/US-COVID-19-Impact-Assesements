@@ -15,7 +15,7 @@
 
 ## Scripts
 
-### [COVID-19 information](./scripts/utils_disease_US)
+### [COVID-19 information](./scripts/utils_disease_US.ipynb)
 
 ## Projects
 
