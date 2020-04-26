@@ -15,9 +15,9 @@
 
 ## Scripts
 
-> ### [COVID-19 information](./scripts/utils_disease_US.ipynb)
-> ### [migration information](./scripts/utils_migration_US.ipynb)
-> ### [SEIR model](./scripts/utils_parameters_US.ipynb)
+> ##### [COVID-19 information](./scripts/utils_disease_US.ipynb)
+> ##### [migration information](./scripts/utils_migration_US.ipynb)
+> ##### [SEIR model](./scripts/utils_parameters_US.ipynb)
 
 ## Projects
 
